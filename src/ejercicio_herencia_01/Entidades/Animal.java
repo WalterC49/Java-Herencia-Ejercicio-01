@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicio_01.Entidades;
+package ejercicio_herencia_01.Entidades;
 
 /**
  *

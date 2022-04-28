@@ -6,18 +6,18 @@ Crear un método en la clase Animal a través del cual cada clase hija deberá
 mostrar luego un mensaje por pantalla informando de que se alimenta. Generar
 una clase Main que realice lo siguiente:
 */
-package ejercicio_01;
+package ejercicio_herencia_01;
 
-import ejercicio_01.Entidades.Animal;
-import ejercicio_01.Entidades.Caballo;
-import ejercicio_01.Entidades.Gato;
-import ejercicio_01.Entidades.Perro;
+import ejercicio_herencia_01.Entidades.Animal;
+import ejercicio_herencia_01.Entidades.Caballo;
+import ejercicio_herencia_01.Entidades.Gato;
+import ejercicio_herencia_01.Entidades.Perro;
 
 /**
  *
  * @author Walter
  */
-public class Ejercicio_01 {
+public class Ejercicio_Herencia_01 {
 
     /**
      * @param args the command line arguments
